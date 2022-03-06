@@ -1,0 +1,17 @@
+body{
+    background:rgb(250, 198, 178);
+}
+
+h1 {
+font-family: cursive , serif;
+font-size: 80px;
+text-align: center;
+} 
+
+h3{
+color:#83052b ;
+}
+
+li {
+margin: 20px;
+}
